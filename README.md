@@ -259,7 +259,7 @@ Creating complex scripts to handle every tiny task can make your workflow brittl
 
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo]([https://your-deployed-url.com](https://github.com/Bella1234-ai/yf-sn-10-week-03--bella-1234-ai--Useful-Terminal-Commands-.git))
 
 Team Projects - CONTRIBUTORS.md
 
