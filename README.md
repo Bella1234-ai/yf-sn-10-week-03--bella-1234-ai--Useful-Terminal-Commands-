@@ -2,7 +2,7 @@
 learn about useful commands
 Your README must include these sections:
 
-# Week {Number}: {Project Title}
+# Week {3}: {Tools & Workflow}
 
 ## Author
 - **Name:** ISABELLAH SIMIYU
