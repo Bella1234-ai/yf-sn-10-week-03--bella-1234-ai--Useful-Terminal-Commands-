@@ -255,6 +255,8 @@ Creating complex scripts to handle every tiny task can make your workflow brittl
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
+<img width="531" height="256" alt="image" src="https://github.com/user-attachments/assets/e640c81e-a468-4b6e-9e09-3eb4b5759e80" />
+
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
